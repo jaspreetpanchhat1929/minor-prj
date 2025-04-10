@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/dGHFV_RMGag" target="_blank">
-      <img src=""C:\Users\DELL\Desktop\Screenshot 2025-04-10 121538.png"" alt="Project Banner">
+      <img src=""Screenshot 2025-04-10 121538.png"" alt="Project Banner">
     </a>
   
   <br />
