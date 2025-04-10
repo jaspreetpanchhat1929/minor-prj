@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/dGHFV_RMGag" target="_blank">
-      <img src="https://i.postimg.cc/tJsYLQcP/test1.jpg" alt="Project Banner">
+      <img src=""C:\Users\DELL\Desktop\Screenshot 2025-04-10 121538.png"" alt="Project Banner">
     </a>
   
   <br />
@@ -111,10 +111,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Assets & Code</a>
 
-The repository includes all the assets and code you need to get started with Finan Smart. Follow along with our YouTube tutorial for a step-by-step guide.
-
-## <a name="more">🚀 More</a>
-
-For more information and additional resources, check out our YouTube channel and join our Discord community for support and discussions.
